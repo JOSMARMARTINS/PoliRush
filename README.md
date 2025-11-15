@@ -10,7 +10,10 @@ Desvie dos carros e tente chegar o mais longe possível!
 
 
 
-## Como Rodar
+## Como Rodar o Jogo direto no computador
+Rode o arquivo de execução direto para jogar
+
+## Para rodar o jogo em uma IDE
 ### 1. Tenha Python 3.8+ e Pygame instalado:
 ```bash
 pip install pygame
